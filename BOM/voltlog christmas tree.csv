@@ -1,0 +1,19 @@
+Component Count:,49,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description
+"C1, C2, C3, C4, C6, C7, C8, C9, C10, C11, C13, C14, ",12,0.1uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"C12, ",1,22uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"C15, C16",1,"10uF, 16V",C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, ",11,SK6812MINI,SK6812MINI,Voltlog:sk6812-2020,RGB LED with integrated controller
+"D12, ",1,LED,LED,LED_SMD:LED_0805_2012Metric,Light emitting diode
+"F1, ",1,0.75A,Polyfuse,Fuse:Fuse_0805_2012Metric,"Resettable fuse, polymeric positive temperature coefficient"
+"J1, ",1,Conn_01x06,Conn_01x06,Connector_JST:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"J2, ",1,USB_B_Micro,USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105017-0001,USB Micro Type B connector
+"JP1, ",1,NO,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,"Solder Jumper, 2-pole, open"
+"Q1, ",1,2N7002,2N7002,Package_TO_SOT_SMD:SOT-23,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+"R1, R2, R3, R5, ",4,10K,R_US,Resistor_SMD:R_0805_2012Metric,"Resistor, US symbol"
+"R4, R6, ",2,1K,R_US,Resistor_SMD:R_0805_2012Metric,"Resistor, US symbol"
+"SW1, ",1,SW_Push,SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,"Push button switch, generic, two pins"
+"T1, ",1,ChristmasTree,ChristmasTree,Voltlog:test,Christmas tree symbol
+"U1, ",1,ESP32-WROOM-32D,ESP32-WROOM-32D,RF_Module:ESP32-WROOM-32,"RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"
+"U2, ",1,NCP1117-3.3_SOT223,NCP1117-3.3_SOT223,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
+"V1, V2, V3, V4, V5, V6, V8, ",7,VOLTLOG_LOGO,VOLTLOG_LOGO,Voltlog:voltlog_mask_5mm,
